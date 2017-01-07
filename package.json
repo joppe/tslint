@@ -1,0 +1,27 @@
+{
+  "name": "tslint-rules",
+  "version": "1.0.0",
+  "description": "tslint rules for my projects",
+  "main": "tslint.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joppe/tslint.git"
+  },
+  "keywords": [
+    "tslint",
+    "rules"
+  ],
+  "author": "Joppe Aarts <joppe@apestaartje.info>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joppe/tslint/issues"
+  },
+  "homepage": "https://github.com/joppe/tslint#readme",
+  "devDependencies": {
+    "tslint": "^4.3.1",
+    "typescript": "^2.1.4"
+  }
+}
