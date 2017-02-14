@@ -40,7 +40,11 @@
         ],
         "space-before-function-paren": [
             true,
-            "always"
+            {
+                "anonymous": "always",
+                "named": "never",
+                "asyncArrow": "always"
+            }
         ],
         "variable-name": [
             true,
